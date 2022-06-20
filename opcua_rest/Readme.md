@@ -27,6 +27,8 @@ yarn dev
 
 ## ✨ Rotas
 
-É possível acessar as seguintes rotas:
-- `/readData` no Postman, Insomnia ou navegador essa rota retorna um array com as leituras 
+É possível acessar as seguintes rotas no Postman, Insomnia ou navegador:
+- `/readData` retorna um objeto com as leituras de velocidade e temperatura
+- `/speed` retorna um array com as leituras de velocidade
+- `/temperature` retorna um array com as leituras de temperatura
 
